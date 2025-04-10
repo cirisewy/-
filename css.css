@@ -1,0 +1,38 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-image:url(https://static.wikia.nocookie.net/gensin-impact/images/d/d1/Song_of_the_Welkin_Moon_Wallpaper_2.png/revision/latest?cb=20250331011628);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    opacity:unset;
+    font-family: 'Arial', sans-serif;
+    flex-direction: column;
+    font-size:2em;
+  }
+  
+
+  h1 {
+    font-size:3em;
+    color:black;
+    
+  }
+
+  .box{
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 1rem 1.5rem;
+    background-color:beige;
+  }
+
+  div{
+    font-size:20px;
+  }
+
+  button{
+font-size:1em;
+  }
